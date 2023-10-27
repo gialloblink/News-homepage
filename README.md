@@ -32,7 +32,7 @@ Gli utenti dovrebbero essere in grado di:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://my-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-KJj6Z-ypAL](https://www.frontendmentor.io/solutions/news-homepage-KJj6Z-ypAL)
 - Live Site URL: [https://gialloblink.github.io/News-homepage](https://gialloblink.github.io/News-homepage/)
 
 ## My process
